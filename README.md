@@ -1,7 +1,7 @@
 
 ![Header image](https://github.com/franzpdx/portfolio/raw/master/images/lead-bg.jpg)
 
-#Welcome to Thomas's GitHub!
+# Welcome to Thomas's GitHub!
 
 If you'd prefer, head over to the [portfolio page](https://franzpdx.github.io/portfolio/)!
 
