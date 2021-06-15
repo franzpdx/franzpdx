@@ -1,5 +1,5 @@
 
-[![Header image](https://raw.githubusercontent.com/franzpdx/franzpdx.github.io/main/images/landing-bg.bmp)](https://franzpdx.github.io/)
+[![Header image](https://raw.githubusercontent.com/franzpdx/franzpdx.github.io/main/images/landing-bg.jpg)](https://franzpdx.github.io/)
 
 # Welcome to Thomas's GitHub!
 
