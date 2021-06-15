@@ -1,9 +1,9 @@
 
-[![Header image](https://raw.githubusercontent.com/franzpdx/franzpdx.github.io/main/images/landing-bg.bmp)](https://franzpdx.github.io/portfolio/)
+[![Header image](https://raw.githubusercontent.com/franzpdx/franzpdx.github.io/main/images/landing-bg.bmp)](https://franzpdx.github.io/)
 
 # Welcome to Thomas's GitHub!
 
-If you'd prefer, head over to the [portfolio page](https://franzpdx.github.io/portfolio/)!
+If you'd prefer, head over to the [portfolio page](https://franzpdx.github.io/)!
 
 
 <!--
