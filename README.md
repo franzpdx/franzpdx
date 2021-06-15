@@ -3,7 +3,7 @@
 
 #Welcome to Thomas's GitHub!
 
-If you'd prefer, head over to the [portfolio page]!(https://franzpdx.github.io/portfolio/)
+If you'd prefer, head over to the [portfolio page](https://franzpdx.github.io/portfolio/)!
 
 
 <!--
