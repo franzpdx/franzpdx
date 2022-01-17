@@ -1,11 +1,6 @@
 
 [![Header image](https://raw.githubusercontent.com/franzpdx/franzpdx.github.io/main/images/landing-bg.jpg)](https://franzpdx.github.io/)
 
-# Welcome to Thomas's GitHub!
-
-If you'd prefer, head over to the [portfolio page](https://franzpdx.github.io/)!
-
-
 <!--
 **franzpdx/franzpdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
